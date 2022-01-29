@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhiro99
 - 👀 I’m interested in Programming php
-- 🌱 I’m currently learning JAVA and OPENGL in C++
+- 🌱 I’m currently learning JAVA and OpenGL in C++
 - 📫 Email me dhirodattobiswas@gmail.com
 
 <!---
