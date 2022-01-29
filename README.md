@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhiro99
-- 👀 I’m interested in Programming php
+- 👀 I’m interested in Programming PHP
 - 🌱 I’m currently learning Java and OpenGL in C++
 - 📫 Email me dhirodattobiswas@gmail.com
 
